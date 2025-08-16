@@ -6,6 +6,8 @@ public final class ArkoAPI extends JavaPlugin {
 
     private static ArkoAPI arkoApiInstance;
 
+    private static String test = "test";
+
     @Override
     public void onEnable() {
         arkoApiInstance = this;
