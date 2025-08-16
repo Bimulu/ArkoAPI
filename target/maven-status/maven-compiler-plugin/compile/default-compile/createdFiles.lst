@@ -1,0 +1,5 @@
+dk\arkomc\api\commands\CommandContext.class
+dk\arkomc\api\commands\BaseCommand.class
+dk\arkomc\api\ArkoAPI.class
+dk\arkomc\api\commands\CommandManager.class
+dk\arkomc\api\plugin\ArkoPlugin.class

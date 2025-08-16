@@ -1,0 +1,4 @@
+name: ArkoAPI
+version: '1.0'
+main: dk.arkomc.api.ArkoAPI
+api-version: '1.8.8'
